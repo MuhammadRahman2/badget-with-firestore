@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183489099128",
+    "project_id": "badget-f4212",
+    "storage_bucket": "badget-f4212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183489099128:android:ead8383159837c8590048d",
+        "android_client_info": {
+          "package_name": "com.example.budget_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183489099128-j2kshmt2p04c11mrpe0jco5so9qkjib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjxyJ1dO3M2gdlsZRvJEGLPexgl16HnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183489099128-j2kshmt2p04c11mrpe0jco5so9qkjib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
